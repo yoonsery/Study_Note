@@ -6,7 +6,7 @@
 2. Accessibility (웹접근성)
 3. Maintainability
 
-## <article> vs <section>
+## `<article>` vs `<section>`
 
 - article
 
@@ -17,19 +17,19 @@
   - 아티클 안에 있는 내용들 중에 `서로 연관있는 내용들을 묶어줄 때`
   - 메인 안에 섹션이 있을 수 있고 섹션 안에 아티클들이 모여있을 수도 있음
 
-## <i> vs <em>
+## `<i>` vs `<em>`
 
 둘다 이탤릭체로 쓰이지만
 i 는 시각적으로만 이탤릭체
 em 은 강조하는 이탤릭체
 
-## <b> vs <strong>
+## `<b>` vs `<strong>`
 
 둘다 볼드체로 쓰이지만
 b는 시각적으로만 볼드
 strong은 정말 중요한 볼드체
 
-## <ol> vs <ul> vs <dl>
+## `<ol>` vs `<ul>` vs `<dl>`
 
 - ol: 순서가 중요할 때 쓰는 목록
 - ul: 순서가 없는 목록
@@ -38,13 +38,13 @@ strong은 정말 중요한 볼드체
   - dt (description term) 단어
   - dd (description detail) 해당하는 설명
 
-## <img> vs `background-image`
+## `<img>` vs `background-image`
 
 이미지가 웹페이지 안에서 하나의 중요한 요소로 자리잡고 있으면 <img>
 문서의 내용과는 별개로 스타일링 목적을 위해 배경이미지로 사용되고
 문서의 일부분이 아니라면 `background-image`
 
-## <button> vs <a>
+## `<button>` vs `<a>`
 
 - button : 사용자의 특정한 액션을 위해 사용
 
@@ -53,7 +53,7 @@ strong은 정말 중요한 볼드체
 - a tag : 사용자가 클릭했을 때 다른 페이지나 페이지 내 어딘가로 이동할 때 사용
   - 링크
 
-## <table> vs CSS
+## `<table>` vs CSS
 
 ( 행 + 열 ) 을 이용한 데이터를 표현할 때는 <table>
 그리드형식으로 표현하기 위해서는 사용하지 말자
